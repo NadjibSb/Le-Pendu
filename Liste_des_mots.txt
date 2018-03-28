@@ -1,0 +1,16 @@
+ANTONYME;antonun;antonun
+SYNONYME;synonymedeux;synonymedeux
+SYNONYME;synotrois;synotrois
+SYNONYME;synquatre;synquatre
+ANTONYME;antcinq;antcinq
+DEFINITION;definitionsix;definitionsix
+DEFINITION;defisept;defisept
+SYNONYME;synohuit;synohuit
+ANTONYME;antonymeneuf;antonymeneuf
+ANTONYME;antodix;antodix
+ANTONYME;antonze;antonze
+DEFINITION;defindouze;defindouze
+DEFINITION;deftreize;deftreize
+SYNONYME;synoquatorze;synoquatorze
+DEFINITION;defquinze;defquinze
+DEFINITION;defseize;defseize
